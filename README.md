@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
+  <img height="70" src="https://szyha.github.io/RcloneLabArchive/img/title_rclonelab.png">
 </p>
 
 ## Introduction
@@ -11,11 +11,11 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 ## Featuring
 
 <p align="center">
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_youtube-dl.png"><br><br>
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_netdata.png">
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_youtube-dl.png"><br><br>
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_netdata.png">
 </p>
 
 ## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
@@ -40,13 +40,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Usage [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
+## Usage [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb)
 
-1. Open the IPython Notebook file in Google Colaboratory by clicking [**here**](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
+1. Open the IPython Notebook file in Google Colaboratory by clicking [**here**](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb).
 
 2. Click "Run cell" (play button) that you want and follow the instruction shown in the output.
 
-    <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
+    <img width="370" src="https://szyha.github.io/RcloneLabArchive/docs/01.png">
 
 - We recommend to use [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable) for file browsing and get a path for RcloneLab.
 - Use [**Google Chrome Browser**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
@@ -55,14 +55,14 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Screenshot
 
 <p align="center">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/rclonelab.png">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/qbittorrent.png">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/jdownloader.png"><br>
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/youtube-dl.png">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/cloud_commander.png">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/netdata.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/rclonelab.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/qbittorrent.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/jdownloader.png"><br>
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/youtube-dl.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/netdata.png">
 </p>
 
-## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
+## Licence [![GitHub license](https://img.shields.io/github/license/szyha/RcloneLabArchive.svg)](https://github.com/szyha/RcloneLabArchive/blob/master/LICENSE)
 
-Licenced under the [**MIT License**](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
+Licenced under the [**MIT License**](https://github.com/szyha/RcloneLabArchive/blob/master/LICENSE).
