@@ -1,4 +1,4 @@
-99bc45c06ed0
+cdd8a6f515bc
     description: Computer
     width: 64 bits
     capabilities: smp vsyscall32
@@ -8,14 +8,14 @@
      *-memory
           description: System memory
           physical id: 0
-          size: 25GiB
+          size: 12GiB
      *-cpu
           product: Intel(R) Xeon(R) CPU @ 2.30GHz
           vendor: Intel Corp.
           physical id: 1
           bus info: cpu@0
           width: 64 bits
-          capabilities: fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp x86-64 constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid xsaveopt arat arch_capabilities
+          capabilities: fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp x86-64 constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm invpcid_single ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid xsaveopt arat md_clear arch_capabilities
      *-pci
           description: Host bridge
           product: 440FX - 82441FX PMC [Natoma]
@@ -58,7 +58,7 @@
              clock: 33MHz
              capabilities: msix bus_master cap_list
              configuration: driver=virtio-pci latency=0
-             resources: irq:11 ioport:c000(size=64) memory:fd000000-fd00007f
+             resources: irq:11 ioport:c080(size=64) memory:fd000000-fd00007f
            *-virtio0 UNCLAIMED
                 description: Virtual I/O device
                 physical id: 0
@@ -66,16 +66,16 @@
                 configuration: driver=virtio_scsi
         *-display
              description: 3D controller
-             product: NVIDIA Corporation
+             product: GK210GL [Tesla K80]
              vendor: NVIDIA Corporation
              physical id: 4
              bus info: pci@0000:00:04.0
              version: a1
              width: 64 bits
              clock: 33MHz
-             capabilities: msix pm bus_master cap_list
+             capabilities: msi pm bus_master cap_list
              configuration: driver=nvidia latency=0
-             resources: irq:11 memory:fc000000-fcffffff memory:d0000000-dfffffff memory:e0000000-e1ffffff
+             resources: iomemory:40-3f iomemory:80-7f irq:33 memory:fc000000-fcffffff memory:400000000-7ffffffff memory:800000000-801ffffff ioport:c000(size=128)
         *-network
              description: Ethernet controller
              product: Virtio network device
@@ -87,7 +87,7 @@
              clock: 33MHz
              capabilities: msix bus_master cap_list
              configuration: driver=virtio-pci latency=0
-             resources: irq:10 ioport:c040(size=64) memory:fd001000-fd0010ff
+             resources: irq:10 ioport:c0c0(size=64) memory:fd001000-fd00107f
            *-virtio1 UNCLAIMED
                 description: Virtual I/O device
                 physical id: 0
