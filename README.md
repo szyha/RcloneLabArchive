@@ -6,7 +6,7 @@
 
 By using RcloneLab you can get ban in Google Colab.
 <p align="center">
-  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/ban.gif">
+  <img height="480" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/ban.gif">
 </p>
 
 > **Why are hardware resources such as T4 GPUs not available to me?**
