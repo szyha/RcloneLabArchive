@@ -2,6 +2,17 @@
   <img height="70" src="https://szyha.github.io/RcloneLabArchive/img/title_rclonelab.png">
 </p>
 
+## WARNING!!!
+
+By using RcloneLab you can get ban in Google Colab.
+> **Why are hardware resources such as T4 GPUs not available to me?**
+The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
+Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
+
+<sub>Source: https://research.google.com/colaboratory/faq.html</sub>
+
+## WARNING!!!
+
 ## Introduction
 
 This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [**10 Gbps ethernet**](https://github.com/szyha/RcloneLabArchive/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**Cloud Commander**](https://cloudcmd.io/) and [**netdata**](https://www.netdata.cloud/).
