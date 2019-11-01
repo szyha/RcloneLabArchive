@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [**10 Gbps ethernet**](https://github.com/szyha/RcloneLabArchive/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**Cloud Commander**](https://cloudcmd.io/) and [**netdata**](https://www.netdata.cloud/).
+This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [**10 Gbps ethernet**](https://github.com/szyha/RcloneLabArchive/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**File Browser**](https://filebrowser.xyz/) and [**netdata**](https://www.netdata.cloud/).
 
 **RcloneLab** is a [**rclone**](https://rclone.org/) GUI for Google Colaboratory, similar to [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable).
 
@@ -14,7 +14,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
   <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_youtube-dl.png"><br><br>
-  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_file_browser.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://szyha.github.io/RcloneLabArchive/img/title_netdata.png">
 </p>
 
@@ -59,7 +59,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/qbittorrent.png">
   <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/jdownloader.png"><br>
   <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/youtube-dl.png">
-  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/file_browser.png">
   <img height="160" src="https://szyha.github.io/RcloneLabArchive/docs/screenshot/netdata.png">
 </p>
 
